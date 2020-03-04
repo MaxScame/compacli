@@ -4,8 +4,8 @@ Small tool for comparing two similar file
 | :--- | :---: |
 | Windows 10 x64  | ✅Support, works fine  |
 | Windows 10 x32  | ✅Support, works fine  |
-| Linux  | 🤔Support, but not tested  |
-| Mac  | 🤔Not support, not tested  |
+| Linux  | 🤔Old version support, not tested  |
+| Mac  | 🚫Not support, not tested  |
 
 *Usage:*
 ```
